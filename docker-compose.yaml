@@ -1,6 +1,6 @@
 versions: '3'
 services:
-  tomcat_service:
+  tomcat-service:
     image: 'tomcat:9'
     ports:
       - '8080:8080'
